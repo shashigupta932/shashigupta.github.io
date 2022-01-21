@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Pages
 welcome to my first github webpage .i am using this first time in my training duration .so my first task is to create a presentation on github . so let's start the journey.
 
 ### github
@@ -22,7 +22,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link]("C:\Users\shash\Desktop\me.jpg") and ![Image]("C:\Users\shash\Desktop\me.jpg")
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
