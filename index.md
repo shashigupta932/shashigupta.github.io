@@ -22,3 +22,7 @@ GitHub, Inc. is a provider of Internet hosting for software development and vers
 
 ![repository is created](https://user-images.githubusercontent.com/75441553/150573898-a654323f-7962-4d7a-9d37-915bb27565b2.png)
 
+![create and upload a new file in any repository ](https://user-images.githubusercontent.com/75441553/150576286-6c88bcc7-51ef-438d-bbae-d794ff7555bb.png)
+
+![we can see uploaded files](https://user-images.githubusercontent.com/75441553/150576960-7fda36e6-f468-47ac-bbb3-a422fa62d089.png)
+
