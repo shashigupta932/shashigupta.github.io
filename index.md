@@ -10,3 +10,4 @@ GitHub, Inc. is a provider of Internet hosting for software development and vers
 - sign up
 - fill mail id and password
 - click on sign up
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
