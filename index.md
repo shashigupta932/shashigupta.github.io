@@ -1,12 +1,11 @@
 ## Welcome to GitHub Pages
+welcome to my first github webpage .i am using this first time in my training duration .so my first task is to create a presentation on github . so let's start the journey.
 
-You can use the [editor on GitHub](https://github.com/shashigupta932/shashigupta.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### github
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+GitHub, Inc. is a provider of Internet hosting for software development and version control using Git. It offers the distributed version control and source code management (SCM) functionality of Git, plus its own features. It provides access control and several collaboration features such as bug tracking, feature requests, task management, continuous integration and wikisfor every project.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## How to create an account on GITHUB
 
 ```markdown
 Syntax highlighted code block
