@@ -7,6 +7,6 @@ GitHub, Inc. is a provider of Internet hosting for software development and vers
 
 ## How to create an account on GITHUB
 *open github.com
--2. sign up
--3 fill mail id and password
--4. click on sign up
+*sign up
+*fill mail id and password
+*click on sign up
