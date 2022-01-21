@@ -6,5 +6,5 @@ welcome to my first github webpage .i am using this first time in my training du
 GitHub, Inc. is a provider of Internet hosting for software development and version control using Git. It offers the distributed version control and source code management (SCM) functionality of Git, plus its own features. It provides access control and several collaboration features such as bug tracking, feature requests, task management, continuous integration and wikisfor every project.
 
 ## How to create an account on GITHUB
-![open github.com] (github.com)
-![Image] (https://th.bing.com/th/id/OIP.BYuUgtA7HtAtQ9zVb_5QsQHaE6?pid=ImgDet&rs=1)
+
+
