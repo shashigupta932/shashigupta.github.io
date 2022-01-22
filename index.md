@@ -51,3 +51,12 @@ GitHub, Inc. is a provider of Internet hosting for software development and vers
 
 ![we can see uploaded files](https://user-images.githubusercontent.com/75441553/150576960-7fda36e6-f468-47ac-bbb3-a422fa62d089.png)
 
+### How to open a repository on visual studio code
+
+- First open terminal on your computer
+- run following commands
+  -  git clone paste link of repository
+  -  cd repository name
+  -  code .
+  
+
