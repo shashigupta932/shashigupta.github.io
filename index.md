@@ -20,12 +20,15 @@ GitHub, Inc. is a provider of Internet hosting for software development and vers
 ![fill mail id and password](https://user-images.githubusercontent.com/75441553/150573346-c14d955c-be04-4dd0-a35c-bbca6d482509.png)
 
 - Enter code send on your e-mail
+
 ![Enter code](https://user-images.githubusercontent.com/75441553/150573538-56e49213-9cad-4edf-9d57-f872cc9c27e6.png)
 
 - Click on sign up
+
 ![click on sign up](https://user-images.githubusercontent.com/75441553/150573683-47db7bc6-100e-4d13-9cf1-ec37a05dbe82.png)
 
 - Account is created
+
 ![account is created](https://user-images.githubusercontent.com/75441553/150573797-ea46155b-6949-40ce-9830-7847592438a8.png)
 
 ### create a repository
@@ -35,6 +38,7 @@ GitHub, Inc. is a provider of Internet hosting for software development and vers
 ![create a repository](https://user-images.githubusercontent.com/75441553/150573856-4659695b-a5ef-417a-8e34-ded54222eb1e.png)
 
 - Repository is created
+
 ![repository is created](https://user-images.githubusercontent.com/75441553/150573898-a654323f-7962-4d7a-9d37-915bb27565b2.png)
 
 ### Adding or Uploading a new file
